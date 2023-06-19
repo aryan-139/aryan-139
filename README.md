@@ -4,6 +4,9 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=Follow)](https://twitter.com/intent/follow?screen_name=desikiteretsu_)
 [![Linkedin: aryan](https://img.shields.io/badge/-aryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryanraj24/)](https://www.linkedin.com/in/aryanraj24/)
 ![GitHub followers](https://img.shields.io/github/followers/aryan-139?label=Follow&style=social)
@@ -32,8 +35,7 @@ const aryan = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-139&show_icons=true&theme=dracula)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/aryan-139/waka-readme-stats)**
 
