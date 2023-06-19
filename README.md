@@ -5,6 +5,41 @@
 </em></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.4%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+🌆 Daytime                367 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
+🌃 Evening                424 commits         ███████████░░░░░░░░░░░░░░   43.89 % 
+🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 mins              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+
+ Last Updated on 19/06/2023 20:32:52 UTC
 <!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=Follow)](https://twitter.com/intent/follow?screen_name=desikiteretsu_)
