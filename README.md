@@ -32,78 +32,17 @@ const aryan = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-139&show_icons=true&theme=dracula)
 
----
+
+
+
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1074-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 182.8 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-🌆 Daytime                1591 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌃 Evening                1352 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌙 Night                  769 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Friday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 620 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Sunday                   862 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-
-
-
-
- Last Updated on 19/06/2023 00:26:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/aryan-139/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+
+<!--Wake API Key- waka_4c465153-2c1c-472c-9fb2-4907035b60f7>
+<!--Github Token-  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>
