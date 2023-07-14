@@ -16,16 +16,16 @@
 
 ```javascript
 const aryan = {
-    code: ["Javascript","Java", "Python"],
+    code: ["Javascript","Java", "Python","C++"],
     askMeAbout: ["Web Development", "Technology", "Business", "Social Media"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express","FastAPI","Python"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MongoDB", "MySql", "sqlite"],
         misc: ["Firebase", "php"]
     },
-    currentFocus: "Working on a backend heavy project",
+    currentFocus: "Getting into Deep Learning",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
