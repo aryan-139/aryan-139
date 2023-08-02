@@ -35,7 +35,7 @@ const aryan = {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-139&show_icons=true&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2023 00:57:37 UTC
+ Last Updated on 02/08/2023 18:45:10 UTC
 <!--END_SECTION:waka-->
 
 
