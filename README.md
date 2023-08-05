@@ -1,4 +1,4 @@
-<h2>Hey, I am Aryan Raj</h2>
+<h2>Hey, I am Aryan Raj, a Full-Stack Engineer</h2>
 <p><em>Pursuing Masters @<a href="https://bitmesra.ac.in/">BIT Mesra
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
