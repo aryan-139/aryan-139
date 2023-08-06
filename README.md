@@ -11,7 +11,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan-139&label=Visitors&countColor=%23263759&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/5446e67c-4821-4850-b367-db5dd1d04c31.svg)](https://wakatime.com/@5446e67c-4821-4850-b367-db5dd1d04c31)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!--### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const aryan = {
@@ -30,6 +30,9 @@ const aryan = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-139&show_icons=true&theme=dracula)
 
