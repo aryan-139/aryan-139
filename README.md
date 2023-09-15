@@ -39,7 +39,7 @@ const aryan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872.6%20thousand%20lines%20of%20code-blue)
 
@@ -68,10 +68,10 @@ Sunday                   182 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bytebit                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 00:50:23 UTC
+ Last Updated on 15/09/2023 00:51:34 UTC
 <!--END_SECTION:waka-->
 
 
