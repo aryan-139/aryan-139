@@ -3,10 +3,11 @@
 </em></p>
 
 
-
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2012%20mins-blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=aryanintech)](https://twitter.com/aryanintech_)
 [![Linkedin: aryan](https://img.shields.io/badge/-aryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryanraj24/)](https://www.linkedin.com/in/aryanraj24/)
 ![GitHub followers](https://img.shields.io/github/followers/aryan-139?label=Follow&style=social)
+
 
 # 🧑‍💻 About Me
  
