@@ -15,19 +15,34 @@
 
 #  SKILLS
 
-**Coding Languages** | Java, Python, JavaScript, C, C++, Typescript, SQL, CSS, HTML
+**Coding Languages** | 
 
-**Frontend (client side)** | React.js, Tailwind, Material UI, Framer
+[![Coding Languages](https://skillicons.dev/icons?i=java,python,javascript,c,cpp,typescript,css,html&theme=dark)](https://skillicons.dev)
+Java, Python, JavaScript, C, C++, Typescript, CSS, HTML
 
-**Backend (server side)** | Express, FastAPI, Node.js, REST APIs, GraphQL
+**Frontend (client side)** |
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,materialui,figma&theme=dark)](https://skillicons.dev)
+React, Tailwind CSS, Material UI, Figma
 
-**Databases** | MongoDB, MySQL, Firestore
+**Backend (server side)** | 
+[![Backend](https://skillicons.dev/icons?i=express,nodejs,fastapi,graphql&theme=dark)](https://skillicons.dev)
+Express, FastAPI, Node.js, GraphQL, REST APIs
 
-**Tools** | VS Code, Postman, GitHub, Git, JIRA
+**Databases** | 
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark)](https://skillicons.dev)
+MongoDB, MySQL, Firestore
 
-**AI/ML** | Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
+**Tools** | 
+[![Databases](https://skillicons.dev/icons?i=vscode,postman,github,git&theme=dark)](https://skillicons.dev)
+VS Code, Postman, GitHub, Git
 
-**Deployment** | Azure, Vercel, Heroku
+**Deployment** | 
+[![Deployment](https://skillicons.dev/icons?i=azure,vercel,heroku&theme=dark)](https://skillicons.dev)
+Azure, Vercel, Heroku
+
+**AI/ML** | 
+Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-139&theme=aura_dark)
 
