@@ -7,52 +7,65 @@
 ![GitHub followers](https://img.shields.io/github/followers/aryan-139?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=aryan-139&color=brightgreen&base=1600)
 
-# 🧑‍💻 About Me
+<h1 align="center"> 🧑‍💻 About Me</h1>
  
  I'm looking for a **Junior Developer/Software Engineer Position** to get hands-on experience working in an agile team environment
 
 📫 Reach me at : **aryanintech@gmail.com**
 
-#  SKILLS
+<h1 align="center">SKILLS</h1>
 
-**Coding Languages** | 
+<p align="center"><strong>Coding Languages</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,typescript,css,html&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,typescript,css,html&theme=dark" alt="Coding Languages">
+  </a>
+</p>
+<p align="center">Java, Python, JavaScript, C, C++, Typescript, CSS, HTML</p>
 
-[![Coding Languages](https://skillicons.dev/icons?i=java,python,javascript,c,cpp,typescript,css,html&theme=dark)](https://skillicons.dev)
+<p align="center"><strong>Frontend (client side)</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=react,tailwind,materialui,figma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,figma&theme=dark" alt="Frontend">
+  </a>
+</p>
+<p align="center">React, Tailwind CSS, Material UI, Figma</p>
 
-Java, Python, JavaScript, C, C++, Typescript, CSS, HTML
+<p align="center"><strong>Backend (server side)</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=express,nodejs,fastapi,graphql&theme=dark">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,fastapi,graphql&theme=dark" alt="Backend">
+  </a>
+</p>
+<p align="center">Express, FastAPI, Node.js, GraphQL, REST APIs</p>
 
-**Frontend (client side)** |
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="Databases">
+  </a>
+</p>
+<p align="center">MongoDB, MySQL, Firestore</p>
 
-[![Frontend](https://skillicons.dev/icons?i=react,tailwind,materialui,figma&theme=dark)](https://skillicons.dev)
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=vscode,postman,github,git&theme=dark">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,github,git&theme=dark" alt="Tools">
+  </a>
+</p>
+<p align="center">VS Code, Postman, GitHub, Git</p>
 
-React, Tailwind CSS, Material UI, Figma
+<p align="center"><strong>Deployment</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=azure,vercel,heroku&theme=dark">
+    <img src="https://skillicons.dev/icons?i=azure,vercel,heroku&theme=dark" alt="Deployment">
+  </a>
+</p>
+<p align="center">Azure, Vercel, Heroku</p>
 
-**Backend (server side)** | 
+<p align="center"><strong>AI/ML</strong></p>
+<p align="center">Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn</p>
 
-[![Backend](https://skillicons.dev/icons?i=express,nodejs,fastapi,graphql&theme=dark)](https://skillicons.dev)
-
-Express, FastAPI, Node.js, GraphQL, REST APIs
-
-**Databases** | 
-
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark)](https://skillicons.dev)
-
-MongoDB, MySQL, Firestore
-
-**Tools** | 
-
-[![Databases](https://skillicons.dev/icons?i=vscode,postman,github,git&theme=dark)](https://skillicons.dev)
-
-VS Code, Postman, GitHub, Git
-
-**Deployment** | 
-
-[![Deployment](https://skillicons.dev/icons?i=azure,vercel,heroku&theme=dark)](https://skillicons.dev)
-Azure, Vercel, Heroku
-
-**AI/ML** | 
-
-Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-139&theme=aura_dark)
