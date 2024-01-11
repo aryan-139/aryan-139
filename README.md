@@ -110,15 +110,13 @@ Sunday                   307 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 mins             ███████████████████░░░░░░   77.42 % 
-CSS                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-currage                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +132,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2024 18:38:40 UTC
+ Last Updated on 11/01/2024 18:38:14 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan-139&theme=dark)](https://git.io/streak-stats)
