@@ -79,7 +79,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -110,13 +110,16 @@ Sunday                   308 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             █████████████░░░░░░░░░░░░   53.04 % 
+JavaScript               7 mins              ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coffeechat               24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +135,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2024 18:38:01 UTC
+ Last Updated on 14/02/2024 18:38:08 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan-139&theme=dark)](https://git.io/streak-stats)
