@@ -122,17 +122,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            ████████████████░░░░░░░░░   64.10 % 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JavaScript               25 repos            ████████████████░░░░░░░░░   65.79 % 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 10/06/2024 18:39:44 UTC
+ Last Updated on 11/06/2024 18:40:22 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan-139&theme=dark)](https://git.io/streak-stats)
