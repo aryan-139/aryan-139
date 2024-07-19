@@ -11,7 +11,7 @@
  
  I'm looking for a **Junior Developer/Software Engineer Position** to get hands-on experience working in an agile team environment
 
-📫 Reach me at : **aryanintech@gmail.com**
+📫 Reach me at : **aryanraj2k25@gmail.com**
 
 <h1 align="center">SKILLS</h1>
 
