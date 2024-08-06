@@ -79,7 +79,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -110,13 +110,21 @@ Sunday                   335 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             ██████████████░░░░░░░░░░░   54.62 % 
+JSON                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+TSConfig                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ei-core-ui               40 mins             ████████████░░░░░░░░░░░░░   46.83 % 
+ei-common-authoring-platf27 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
+api-gateway              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+ei-content               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+application              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +140,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2024 18:41:48 UTC
+ Last Updated on 06/08/2024 18:42:46 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan-139&theme=dark)](https://git.io/streak-stats)
