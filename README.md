@@ -79,7 +79,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -110,16 +110,16 @@ Sunday                   361 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ██████████████████████░░░   86.26 % 
-HTML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               7 hrs 3 mins        ██████████████████████░░░   86.70 % 
+HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-ei-common-authoring-platf6 hrs 59 mins       ███████████████████████░░   90.07 % 
-ei-content               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+ei-common-authoring-platf6 hrs 52 mins       █████████████████████░░░░   84.40 % 
+ei-content               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 💻 Operating System: 
-Mac                      7 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +135,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2025 18:49:08 UTC
+ Last Updated on 14/05/2025 18:48:52 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan-139&theme=dark)](https://git.io/streak-stats)
